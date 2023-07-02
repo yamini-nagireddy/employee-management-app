@@ -14,4 +14,5 @@ HTML \
 CSS \
 JavaScript \
 React \
-Spring Boot 
+Spring Boot \
+MySQL
